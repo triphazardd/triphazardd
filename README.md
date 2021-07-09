@@ -1,4 +1,3 @@
-hello i'm trip
 currently trying to learn python again
 
 my discord is trip#0005, dm me if you want idc
